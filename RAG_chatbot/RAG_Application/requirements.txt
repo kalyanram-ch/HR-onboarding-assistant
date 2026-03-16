@@ -1,0 +1,8 @@
+langchain-openai
+langchain-community
+sentence-transformers
+transformers
+#faiss-gpu
+faiss-cpu
+datasets
+torch
